@@ -1,8 +1,8 @@
 # GraphicsInstancing使用文档
 
 包含有动作的Mesh和无动作的Mesh两种GraphicsInstancing。
-无动作的Mesh    可设置坐标，朝向，缩放。
-有动作的Mesh    可设置坐标，朝向，缩放，播放动画，接收事件。
+    无动作的Mesh    可设置坐标，朝向，缩放。
+    有动作的Mesh    可设置坐标，朝向，缩放，播放动画，接收事件。
 
 注意：仅支持包含一个Mesh一个Material的模型，Material需要开启 Enable GPU Instancing。
 
