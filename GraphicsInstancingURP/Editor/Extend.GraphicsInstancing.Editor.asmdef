@@ -1,0 +1,19 @@
+{
+    "name": "Extend.GraphicsInstancing.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c61b57af2579b094ea468e86bde98c68",
+        "GUID:45fc0be54141d6044996cb19c30f85c3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

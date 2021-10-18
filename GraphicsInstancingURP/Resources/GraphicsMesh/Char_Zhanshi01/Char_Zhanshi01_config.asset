@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33911833067fe9c43bd324ad9d008b55, type: 3}
+  m_Name: Char_Zhanshi01_config
+  m_EditorClassIdentifier: 
+  Mesh: {fileID: 4300000, guid: c43759c593ff64a4aa5dee741f402286, type: 2}
+  Material: {fileID: 2100000, guid: a106b53db6ab9f04fb37d29bdfaf12c4, type: 2}
+  AnimatorInfo: {fileID: 11400000, guid: 17244ba68f55ced47923e21b6881e3e7, type: 2}
